@@ -106,3 +106,7 @@ but if you load `conv3d_deepnetA_sport1m_iter_1900000_TF.model` or `c3d_ucf101_f
 [5]: https://github.com/facebook/C3D
 [6]: http://vlg.cs.dartmouth.edu/c3d/
 [7]:https://github.com/hx173149/C3D-tensorflow
+
+https://zhuanlan.zhihu.com/p/35388036
+https://zhuanlan.zhihu.com/p/32934943
+https://www.jianshu.com/p/cd4500041acf
